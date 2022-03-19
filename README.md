@@ -10,3 +10,9 @@ Concepts learned and implemented through this project:
 - Variables
 - Conditionals
 - Functions
+
+March 19th 2022
+Adding a UI to the rock-paper-scissors game.
+New concepts learned and implemented are:
+- Git Branching and merging
+- DOM manipulation
