@@ -16,3 +16,5 @@ Adding a UI to the rock-paper-scissors game.
 New concepts learned and implemented are:
 - Git Branching and merging
 - DOM manipulation
+
+<a href="https://tnorphel.github.io/odin-rock-paper-scissors/">Live Preview</a>
